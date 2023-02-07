@@ -4,3 +4,12 @@
 ~~~
 composer require topthink/think-migration
 ~~~
+
+
+添加私有仓库
+"repositories": [
+    {
+        "type": "composer",
+        "url": "http://satis.demo.com"
+    }
+]
